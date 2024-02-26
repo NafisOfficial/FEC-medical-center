@@ -4,6 +4,12 @@ import icon1 from '../../../assets/images/icons/facebook.png'
 import icon2 from '../../../assets/images/icons/twitter.png'
 import icon3 from '../../../assets/images/icons/linkedin.png'
 
+
+// todo: add copyright and bangla font
+
+
+
+
 const Login = () => {
   return (
     <div className="banner py-1 px-24">
