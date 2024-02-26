@@ -1,0 +1,8 @@
+.banner{
+    background-image: url("../../../../assets/images/banners/13295064_5172658.jpg");
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
